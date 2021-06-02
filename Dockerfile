@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer="alexandrivshin78@gmail.com"
+LABEL maintainer="neytro@mail.ru"
 
 RUN yum update \
  && yum upgrade -y \
